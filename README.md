@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5d96563-cdf4-40db-8663-b794c49642a2/deploy-status)](https://app.netlify.com/sites/eat-n-split222/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5d96563-cdf4-40db-8663-b794c49642a2/deploy-status)]([https://app.netlify.com/sites/eat-n-split222/deploys](https://eat-n-split222.netlify.app/))
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
